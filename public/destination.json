@@ -1,0 +1,6 @@
+[
+    { "id": 1, "label": "Destination X", "value": "destinationX" },
+    { "id": 2, "label": "Destination Y", "value": "destinationY" },
+    { "id": 3, "label": "Destination Z", "value": "destinationZ" }
+
+]

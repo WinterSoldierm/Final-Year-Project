@@ -1,0 +1,58 @@
+// AssetIdentification.scss
+
+.asset-card {
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .file-upload {
+    display: flex;
+    justify-content: space-between;
+
+    .file-input-container {
+      display: flex;
+      justify-content: space-evenly;
+      background-color: #fff; // Gray background color
+
+      input {
+        // display: none;
+        background-color: transparent; // Make the input background transparent
+      }
+
+      label {
+        padding: 8px;
+        background-color: #8aa1bb;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 5px;
+        margin-right: 10px;
+        margin-bottom: 5px;
+      }
+    }
+
+    button {
+      padding: 8px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+  }
+
+  .analyze-btn {
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+}

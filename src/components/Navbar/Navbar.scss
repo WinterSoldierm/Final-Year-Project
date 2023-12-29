@@ -1,0 +1,41 @@
+// Navbar.scss
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px;
+
+  .navbar {
+    .nav-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        display: inline-block;
+        margin-right: 10px;
+
+        a {
+          text-decoration: none;
+          color: white;
+        }
+      }
+    }
+  }
+
+  .sidebar {
+    display: flex;
+    align-items: center;
+
+    .dashboard,
+    .login {
+      padding: 10px;
+      margin-right: 10px;
+      color: white;
+      background-color: #555;
+      border-radius: 5px;
+    }
+  }
+}

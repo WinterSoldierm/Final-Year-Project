@@ -1,0 +1,6 @@
+[
+    { "id": 1, "label": "Source A", "value": "sourceA" },
+    { "id": 2, "label": "Source B", "value": "sourceB" },
+    { "id": 3, "label": "Source C", "value": "sourceC" }
+
+]

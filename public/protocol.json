@@ -1,0 +1,10 @@
+[
+    { "id": 1, "label": "Modbus", "value": "modbus" },
+    { "id": 2, "label": "DNP3", "value": "dnp3" },
+    { "id": 3, "label": "IEC 60870-5-104", "value": "iec60870-5-104" },
+    { "id": 4, "label": "Profinet", "value": "profinet" },
+    { "id": 5, "label": "BACnet", "value": "bacnet" },
+    { "id": 6, "label": "OPC UA", "value": "opcua" },
+    { "id": 7, "label": "EtherNet/IP", "value": "ethernetip" }
+
+]
